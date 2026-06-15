@@ -1,2 +1,2 @@
 # MastersThesis
-Master's Thesis about developing a VR body swapping system with semi-autonomous virtual avatars.
+Master's Thesis about how semi-autonomy can affect the user's perceived sense of agency during VR body swapping. 

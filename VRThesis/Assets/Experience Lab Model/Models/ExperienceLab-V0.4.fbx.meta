@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 81a7b436657fc4b4990f43a760e8cbb6
+timeCreated: 1499168309
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AdapterPanel
+    100002: BackPanel
+    100004: BackPanelObjects
+    100006: BigPanorama
+    100008: BlackPanel
+    100010: BlackPanel.001
+    100012: BlackPanel.002
+    100014: BlackPanel.003
+    100016: Door
+    100018: DoorFootPanel
+    100020: DoorFrame
+    100022: DoorframeTop
+    100024: DoorHandle
+    100026: EntrancePanel
+    100028: EntraPanelObjects
+    100030: //RootNode
+    100032: ExtraRoofPanels
+    100034: Floor
+    100036: GardinLeft
+    100038: GardinRight
+    100040: KeyHole
+    100042: MirrorWindowPanel
+    100044: Roof
+    100046: RoofMiddleObjects
+    100048: SmallPanorama
+    100050: WindowHandleLeft
+    100052: WindowHandleRight
+    100054: Windows
+    100056: WindowsLeft_OLD
+    100058: WindowsPanel
+    100060: WindowsRight_OLD
+    100062: WoodenTopPanel
+    400000: AdapterPanel
+    400002: BackPanel
+    400004: BackPanelObjects
+    400006: BigPanorama
+    400008: BlackPanel
+    400010: BlackPanel.001
+    400012: BlackPanel.002
+    400014: BlackPanel.003
+    400016: Door
+    400018: DoorFootPanel
+    400020: DoorFrame
+    400022: DoorframeTop
+    400024: DoorHandle
+    400026: EntrancePanel
+    400028: EntraPanelObjects
+    400030: //RootNode
+    400032: ExtraRoofPanels
+    400034: Floor
+    400036: GardinLeft
+    400038: GardinRight
+    400040: KeyHole
+    400042: MirrorWindowPanel
+    400044: Roof
+    400046: RoofMiddleObjects
+    400048: SmallPanorama
+    400050: WindowHandleLeft
+    400052: WindowHandleRight
+    400054: Windows
+    400056: WindowsLeft_OLD
+    400058: WindowsPanel
+    400060: WindowsRight_OLD
+    400062: WoodenTopPanel
+    2300000: AdapterPanel
+    2300002: BackPanel
+    2300004: BackPanelObjects
+    2300006: BigPanorama
+    2300008: BlackPanel
+    2300010: BlackPanel.001
+    2300012: BlackPanel.002
+    2300014: BlackPanel.003
+    2300016: Door
+    2300018: DoorFootPanel
+    2300020: DoorFrame
+    2300022: DoorframeTop
+    2300024: DoorHandle
+    2300026: EntrancePanel
+    2300028: EntraPanelObjects
+    2300030: ExtraRoofPanels
+    2300032: Floor
+    2300034: GardinLeft
+    2300036: GardinRight
+    2300038: KeyHole
+    2300040: MirrorWindowPanel
+    2300042: Roof
+    2300044: RoofMiddleObjects
+    2300046: SmallPanorama
+    2300048: WindowHandleLeft
+    2300050: WindowHandleRight
+    2300052: Windows
+    2300054: WindowsLeft_OLD
+    2300056: WindowsPanel
+    2300058: WindowsRight_OLD
+    2300060: WoodenTopPanel
+    3300000: AdapterPanel
+    3300002: BackPanel
+    3300004: BackPanelObjects
+    3300006: BigPanorama
+    3300008: BlackPanel
+    3300010: BlackPanel.001
+    3300012: BlackPanel.002
+    3300014: BlackPanel.003
+    3300016: Door
+    3300018: DoorFootPanel
+    3300020: DoorFrame
+    3300022: DoorframeTop
+    3300024: DoorHandle
+    3300026: EntrancePanel
+    3300028: EntraPanelObjects
+    3300030: ExtraRoofPanels
+    3300032: Floor
+    3300034: GardinLeft
+    3300036: GardinRight
+    3300038: KeyHole
+    3300040: MirrorWindowPanel
+    3300042: Roof
+    3300044: RoofMiddleObjects
+    3300046: SmallPanorama
+    3300048: WindowHandleLeft
+    3300050: WindowHandleRight
+    3300052: Windows
+    3300054: WindowsLeft_OLD
+    3300056: WindowsPanel
+    3300058: WindowsRight_OLD
+    3300060: WoodenTopPanel
+    4300000: SmallPanorama
+    4300002: BigPanorama
+    4300004: BlackPanel.003
+    4300006: BlackPanel.002
+    4300008: BlackPanel.001
+    4300010: BlackPanel
+    4300012: MirrorWindowPanel
+    4300014: AdapterPanel
+    4300016: WindowsPanel
+    4300018: Windows
+    4300020: GardinLeft
+    4300022: GardinRight
+    4300024: WindowHandleLeft
+    4300026: WindowHandleRight
+    4300028: WoodenTopPanel
+    4300030: WindowsRight_OLD
+    4300032: WindowsLeft_OLD
+    4300034: BackPanel
+    4300036: BackPanelObjects
+    4300038: EntrancePanel
+    4300040: Door
+    4300042: DoorFootPanel
+    4300044: KeyHole
+    4300046: DoorHandle
+    4300048: EntraPanelObjects
+    4300050: DoorFrame
+    4300052: DoorframeTop
+    4300054: Floor
+    4300056: Roof
+    4300058: RoofMiddleObjects
+    4300060: ExtraRoofPanels
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
